@@ -1,6 +1,6 @@
 ### Hi Developers 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-Shyam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shyam-singh-choudhary-9792701a2/](https://www.linkedin.com/in/shyam-singh-choudhary-9792701a2/)
+[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/aakash--01629954/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Shyam-yellow)](https://stackoverflow.com/users/19857163/shyam-sagar-singh-choudhary)
 
 I'm a Btech CSE Graduate (2022)
