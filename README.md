@@ -1,21 +1,21 @@
 ### Hi Developers 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-Shyam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shyam-singh-choudhary-9792701a2/](https://www.linkedin.com/in/shyam-singh-choudhary-9792701a2/)
-[![Website Badge](https://img.shields.io/badge/WebSite-Coming Soon-green)]()
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Shyam-yellow)](https://stackoverflow.com/users/19857163/shyam-sagar-singh-choudhary)
+[![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/developerfunnel)
+[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/aakash--01629954/)
+[![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.akash)
+[![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/3687251/aakash-)
 
-I'm a Btech CSE Graduate (2022)
-&& Upcoming Full Stack Solution Architect
-The crossover between design and programming has always been of interest to me, I've been lucky enough to learn & work alongside Aakash Sir. I have knowledge of few skills that include JAVA , design (working closely with designers), front-end development (React, ReactJs, HTML5, CSS3, Javascript, Responsive, UX). I have been working mostly on Windows as well as linux.
+I'm
+Full Stack Solution Architect
+The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), design (working closely with designers), front-end development (React, Angular9, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS, GCP, Azure),database(MongoDB,cassendra,Mysql), CI/CD(Docker, kubernetes)
 
 
-
-![Visitor Count](https://profile-counter.glitch.me/shyam-sagar00/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/aakashdeveloper/count.svg)
 
 <div>
   <h4>🏆 Github Profile Trophy</h4>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Shyam-sagar00&column=7"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=aakashdeveloper&column=7"/>
   </a>
 </div>
 
@@ -136,10 +136,9 @@ Languages and Tools:
         <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"   />
     </a>
 
-![](https://activity-graph.herokuapp.com/graph?username=Shyam-sagar00&theme=react-dark&area=true)
-
+![](https://activity-graph.herokuapp.com/graph?username=aakashdeveloper&theme=react-dark&area=true)
 <!--
-**shyam-sagar00/shyam-sagar00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aakashdeveloper/Aakashdeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -150,6 +149,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: .....
+
 -->
 
